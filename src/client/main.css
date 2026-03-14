@@ -104,9 +104,8 @@ select {
   row-gap: 1rem;
   padding: 2rem 1rem;
   width: calc(100vw - 2rem);
-  height: calc(100vh - 2rem);
+  height: fit-content;
   max-width: 600px;
-  max-height: fit-content;
   min-width: 320px;
   border-radius: 0.25rem;
   overflow-y: auto;
